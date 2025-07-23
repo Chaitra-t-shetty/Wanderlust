@@ -2,7 +2,7 @@
 
 **Wanderlust** is a full-stack Airbnb-like travel stay booking application that lets users explore and book vacation rentals with ease. Built as a final year project, it features a sleek UI, functional authentication, and essential travel booking features.
 
-🔗 **Live Demo:** [wanderlust-mnob.onrender.com](https://wanderlust-mnob.onrender.com)
+🔗 **Live Demo:** [wanderlust-mnob.onrender.com/listings](https://wanderlust-mnob.onrender.com/listings)
 
 ---
 
